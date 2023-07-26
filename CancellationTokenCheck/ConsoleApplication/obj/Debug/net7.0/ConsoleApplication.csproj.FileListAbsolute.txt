@@ -1,0 +1,15 @@
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.deps.json
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.runtimeconfig.json
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.csproj.AssemblyReference.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.AssemblyInfo.cs
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/refint/ConsoleApplication.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.genruntimeconfig.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/CancellationTokenCheck/CancellationTokenCheck/ConsoleApplication/obj/Debug/net7.0/ref/ConsoleApplication.dll
